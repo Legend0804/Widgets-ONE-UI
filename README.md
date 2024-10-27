@@ -66,4 +66,4 @@
 1. This theme slightly looks like Monterey by Creewik, but it is not. I didn't copy his code. I made my own skin
 2. I made this skin as hobby. It is not a commercial project.
 3. I have **zero** knowledge about coding. I made it all via trial and error. Therefore making this took a lot of efforts and there are few things I skipped to make (like settings widget)
-4. I'll soon update settings guide
+4. I know settings are bit lengthy. I could have simplified it but it would take another 2 working days and I ran out of motivation to do so. Please forgive me for the inconvinience
