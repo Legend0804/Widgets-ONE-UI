@@ -27,7 +27,7 @@
 ![Screenshot 2024-10-27 142404](https://github.com/user-attachments/assets/a77f772b-cae4-45e8-aea8-a533838cbfb1)
 
 ## Instructions
-** Go to parent folder of skin : C:\Users\%Username%\Documents\Rainmeter\One UI. In this folder there is folder named @Resources. By editing few files you can change the look of the skin **
+**Go to parent folder of skin : C:\Users\%Username%\Documents\Rainmeter\One UI. In this folder there is folder named @Resources. By editing few files you can change the look of the skin**
 ### How to change size of widgets
 Open variables.inc file
 In the last line you'd see "Scale=0.9"
@@ -43,7 +43,7 @@ In @Resources folder you'd see "colors.inc" file (don't touch it yet)
 In same @Resources folder, you'd see folder named "color schemes"
 In color schemes folder there are subfolder with different names representing color scheme
 In each subfolder there is "colors.inc" file
-Copy the file (please ** DO NOT ** change the name of the file) and paste it back into @Resources folder replacing original "colors.inc" file
+Copy the file (please **DO NOT** change the name of the file) and paste it back into @Resources folder replacing original "colors.inc" file
 Then refresh rainmeter
 
 ## Please note : 
