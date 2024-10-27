@@ -1,2 +1,5 @@
 # Widgets-ONE-UI
-Widgets for matching my Project One UI
+##Features
+###Available in six color schemes
+###Calendar synced with google calendar
+###Controls for Brightness and Volume
