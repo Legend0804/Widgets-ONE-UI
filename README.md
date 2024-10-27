@@ -5,6 +5,9 @@
 ### •Calendar synced with google calendar
 ### •Controls for Brightness and Volume
 
+## Colored Widgets
+![Screenshot 2024-10-27 142627](https://github.com/user-attachments/assets/1ba16755-4fa8-4714-ae9b-293fd2241262)
+
 ## Color Scheme 1 : Light
 ![Screenshot 2024-10-27 142532](https://github.com/user-attachments/assets/524a4e31-0807-4925-a766-2260a9ce7fbc)
 
