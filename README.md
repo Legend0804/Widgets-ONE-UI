@@ -3,7 +3,7 @@
 ### •Two types of widgets - Colored and Default
 ### •Available in six color schemes
 ### •Calendar synced with google calendar
-### •Controls for Brightness and Volume
+### •Controls for Brightness and Volume in System panel (both drag and scroll motion works there)
 
 ## Colored Widgets
 ![Screenshot 2024-10-27 142627](https://github.com/user-attachments/assets/1ba16755-4fa8-4714-ae9b-293fd2241262)
