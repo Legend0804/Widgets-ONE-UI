@@ -26,6 +26,26 @@
 ## Color Scheme 6 : Foreground fetch 2 (fetches colors from wallpaper)
 ![Screenshot 2024-10-27 142404](https://github.com/user-attachments/assets/a77f772b-cae4-45e8-aea8-a533838cbfb1)
 
+## Instructions
+** Go to parent folder of skin : C:\Users\%Username%\Documents\Rainmeter\One UI. In this folder there is folder named @Resources. By editing few files you can change the look of the skin **
+### How to change size of widgets
+Open variables.inc file
+In the last line you'd see "Scale=0.9"
+Change the "0.9" with the size you like (0.8 to 1.5 are best resolutions)
+Refresh rainmeter
+
+### How to change weather location
+Again in variables.inc, you'd see "WeatherLocation"
+Just put in name of your place there. It works for almost every place
+
+### How to change color schemes
+In @Resources folder you'd see "colors.inc" file (don't touch it yet)
+In same @Resources folder, you'd see folder named "color schemes"
+In color schemes folder there are subfolder with different names representing color scheme
+In each subfolder there is "colors.inc" file
+Copy the file (please ** DO NOT ** change the name of the file) and paste it back into @Resources folder replacing original "colors.inc" file
+Then refresh rainmeter
+
 ## Please note : 
 1. This theme slightly looks like Monterey by Creewik, but it is not. I didn't copy his code. I made my own skin
 2. I made this skin as hobby. It is not a commercial project.
