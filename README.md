@@ -52,7 +52,7 @@
 ### How to sync Google Calendar
 - Go to Google Calendar settings ![image](https://github.com/user-attachments/assets/2a4890b8-cd8e-4df3-850c-8c8536503726)
 - Under settings tab, look for "settings for my Calendar tab"
-   ![image](https://github.com/user-attachments/assets/01f59fa9-f916-4a24-a3e5-5214d0cd9476)
+![image](https://github.com/user-attachments/assets/01f59fa9-f916-4a24-a3e5-5214d0cd9476)
 - Open the calendar you want to sync. Then look for "secret address in ical format". copy it (please do not share it with anyone else) ![image](https://github.com/user-attachments/assets/4b72e47d-f3af-4f71-9913-119ccbc5b419)
 - Then again go to @Resources folder. Open GCal.inc file
 - You'd see "GoogleCalendar1" line at very top which is empty. Paste the copied code after "=" mark.
